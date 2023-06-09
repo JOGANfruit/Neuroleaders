@@ -5,3 +5,4 @@ Leaders created by the neural network
 ![image2](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/a5913e67-ba55-4f01-aa90-4846c79fe5ef)
 ![image3](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/5dcf7502-08c0-4305-852b-0d9ddb4a97e1)
 ![image4](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/8ff53965-3eeb-4b79-b71e-a859bc866438)
+![Napoleon](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/e3b3d4ca-f35f-424b-aa2f-000fa4eef9e8)
