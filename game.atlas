@@ -11,65 +11,86 @@ LeaderIcons/Alexander
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Catherine
+LeaderIcons/Augustus Caesar
   rotate: false
   xy: 4, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Elizabeth
+LeaderIcons/Gandhi
   rotate: false
   xy: 268, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Napoleon
+LeaderIcons/George Washington
   rotate: false
   xy: 4, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Napoleon2
+LeaderIcons/Harun al-Rashid
   rotate: false
   xy: 268, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Nebuchadnezzar II
+LeaderIcons/Napoleon
   rotate: false
   xy: 532, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Ramesses II
+LeaderIcons/Nebuchadnezzar II
   rotate: false
   xy: 268, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Simon Bolivar
+LeaderIcons/Oda Nobunaga
   rotate: false
   xy: 532, 268
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/Wu Zetian
+LeaderIcons/Otto von Bismarck
   rotate: false
   xy: 796, 532
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
   index: -1
-LeaderIcons/photo_2023-06-09_23-03-11.bXIAw
+LeaderIcons/Ramesses II
   rotate: false
   xy: 532, 4
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Simon Bolivar
+  rotate: false
+  xy: 796, 268
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Suleiman I
+  rotate: false
+  xy: 1060, 532
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+LeaderIcons/Wu Zetian
+  rotate: false
+  xy: 796, 4
   size: 256, 256
   orig: 256, 256
   offset: 0, 0
