@@ -11,3 +11,5 @@ Leaders created by the neural network
 ![image](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/579f07a2-add0-43b9-b77c-8cc34e3efe6c)
 ![image](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/e24f7fdb-3053-492d-8f5b-1241e5c8c17a)
 ![image](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/7b063716-7260-4169-b3d6-81ed223574e7)
+![image](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/d22f80f0-6202-41f9-828f-66016d407ea6)
+![image](https://github.com/JOGANfruit/Neuroleaders/assets/77359522/4ee7f21d-ae42-494e-a6bc-a24fbf176bb1)
